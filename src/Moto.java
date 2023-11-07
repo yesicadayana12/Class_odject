@@ -3,6 +3,8 @@ import javax.swing.*;
 public class Moto {
 
     String color;
+
+
     String marca;
     int velocidad_mx;
 
